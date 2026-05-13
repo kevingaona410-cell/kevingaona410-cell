@@ -117,8 +117,10 @@
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kevingaona410-cell&theme=blueberry&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="55%"/>
   <a href="https://github.com/kevingaona410-cell">
     <img align= "rigth"src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kevingaona410-cell&layout=compact&langs_count=8&theme=algolia" width="40%"/>
+
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   </a>
+  
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevingaona410-cell&theme=tokyonight&hide_border=true" width="100%" alt="Kevin Gaona"/>
 
 
