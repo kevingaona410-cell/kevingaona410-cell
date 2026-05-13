@@ -119,7 +119,7 @@
     <img align= "rigth"src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kevingaona410-cell&layout=compact&langs_count=8&theme=algolia" width="230"/>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   </a>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevingaona410-cell&theme=tokyonight&hide_border=true" width="600" alt="Kevin Gaona"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevingaona410-cell&theme=tokyonight&hide_border=true" width="100%" alt="Kevin Gaona"/>
 
 
 ### 🤝 Connect with me:
