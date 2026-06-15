@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Kevin Gaona <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<img align="center" src="https://private-user-images.githubusercontent.com/228754950/595495956-dbe5b927-60a0-4a1a-a37c-b8be76345f75.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzkyODUxNzAsIm5iZiI6MTc3OTI4NDg3MCwicGF0aCI6Ii8yMjg3NTQ5NTAvNTk1NDk1OTU2LWRiZTViOTI3LTYwYTAtNGExYS1hMzdjLWI4YmU3NjM0NWY3NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUyMFQxMzQ3NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MjMyMzRmYWNjZTVlOTJkYTIyOTA0NmJjYzJlYjUxZjgzY2JmNjljYzRkODg0ODE1ZGVmNmExMmE2MjdiMTE3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.NeHYBzZ7Mtln2hoDagvtGEO2EuBNh4mesAiQYD8SUG4" alt="Banner" width="100%" />
+<img align="center" src= "KevinGaona_banner.png" alt="Banner" width="100%" />
 </p>
 <h3 align="justify">Apasionado por el desarrollo de software y la creación de experiencias digitales, disfruto transformar ideas en proyectos reales mediante programación. Siempre busco aprender nuevas tecnologías, mejorar mis habilidades y enfrentar retos que me permitan crecer como desarrollador.   
 </h3>
