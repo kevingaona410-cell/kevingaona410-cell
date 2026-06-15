@@ -112,7 +112,7 @@
 
 ------------------------
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kevingaona410-cell&layout=compact&langs_count=8&theme=algolia" width="50%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kevingaona410-cell&layout=compact&langs_count=8&theme=algolia" width="38%" style= "margin: 0 5px" />
   <img src="https://github-readme-stats.vercel.app/api?username=kevingaona410-cell&show_icons=true&theme=algolia&hide_border=true" width="50%" />
 </p>
 
